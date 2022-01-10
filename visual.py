@@ -1,7 +1,7 @@
 import tkinter as tk
 from random import randint
 from Sorting import selection_sort, insertion_sort
-from utils import AlgoType
+from Sorting.PY.utils import AlgoType
 
 class VisualSort():
 

@@ -1,0 +1,15 @@
+E:\GoogleDrive\personal projects\algopractice\Sorting\C#\Sorting\bin\Debug\net6.0\Sorting.exe
+E:\GoogleDrive\personal projects\algopractice\Sorting\C#\Sorting\bin\Debug\net6.0\Sorting.deps.json
+E:\GoogleDrive\personal projects\algopractice\Sorting\C#\Sorting\bin\Debug\net6.0\Sorting.runtimeconfig.json
+E:\GoogleDrive\personal projects\algopractice\Sorting\C#\Sorting\bin\Debug\net6.0\Sorting.dll
+E:\GoogleDrive\personal projects\algopractice\Sorting\C#\Sorting\bin\Debug\net6.0\ref\Sorting.dll
+E:\GoogleDrive\personal projects\algopractice\Sorting\C#\Sorting\bin\Debug\net6.0\Sorting.pdb
+E:\GoogleDrive\personal projects\algopractice\Sorting\C#\Sorting\obj\Debug\net6.0\Sorting.csproj.AssemblyReference.cache
+E:\GoogleDrive\personal projects\algopractice\Sorting\C#\Sorting\obj\Debug\net6.0\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+E:\GoogleDrive\personal projects\algopractice\Sorting\C#\Sorting\obj\Debug\net6.0\Sorting.AssemblyInfoInputs.cache
+E:\GoogleDrive\personal projects\algopractice\Sorting\C#\Sorting\obj\Debug\net6.0\Sorting.AssemblyInfo.cs
+E:\GoogleDrive\personal projects\algopractice\Sorting\C#\Sorting\obj\Debug\net6.0\Sorting.csproj.CoreCompileInputs.cache
+E:\GoogleDrive\personal projects\algopractice\Sorting\C#\Sorting\obj\Debug\net6.0\Sorting.dll
+E:\GoogleDrive\personal projects\algopractice\Sorting\C#\Sorting\obj\Debug\net6.0\ref\Sorting.dll
+E:\GoogleDrive\personal projects\algopractice\Sorting\C#\Sorting\obj\Debug\net6.0\Sorting.pdb
+E:\GoogleDrive\personal projects\algopractice\Sorting\C#\Sorting\obj\Debug\net6.0\Sorting.genruntimeconfig.cache

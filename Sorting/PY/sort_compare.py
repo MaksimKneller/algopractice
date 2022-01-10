@@ -1,6 +1,6 @@
 from Sorting import insertion_sort, selection_sort, shell_sort
 import time
-from utils import AlgoType
+from Sorting.PY.utils import AlgoType
 from random import randint
 
 def sort(algo, input):
